@@ -4,6 +4,7 @@ using UnityEngine;
 public class DissolveShaderHandler : MonoBehaviour
 {
     [SerializeField] private Material dissolveMaterial;
+    [Header("Dissolve Time")]
     [SerializeField] private float duration;
     
     private bool _isDissolving;
