@@ -10,6 +10,8 @@ Each folder in this repository represents a unique shader graph example:
 ![DissolveShader](https://github.com/tlgdmr/Shader-Graph/assets/76128236/89d04bb3-76a1-49a4-93d3-720632a56f84)
 - **Outline Shader** - Highlights objects by drawing lines around their edges, enhancing visibility or adding a stylized look.
 ![OutlineShader](https://github.com/tlgdmr/Shader-Graph/assets/76128236/eb661950-d22c-4746-b417-8d12778e5518)
+- **Color Switching Shader** - Enables objects to smoothly transition between two colors, by setting a target and current color.
+![ColorSwitching](https://github.com/tlgdmr/Shader-Graph/assets/76128236/c13717ae-b7ae-4f71-a309-091b68ddbdd4)
 
 ## Getting Started
 
